@@ -1,0 +1,42 @@
+﻿  GLFW_Version.cpp
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\Angel.h(63,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'GLFW_Version.cpp')
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'GLFW_Version.cpp')
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\glad\glad.h(323,9): warning C4005: 'GL_ALL_ATTRIB_BITS': macro redefinition
+  (compiling source file 'GLFW_Version.cpp')
+      D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\GL\glew.h(308,9):
+      see previous definition of 'GL_ALL_ATTRIB_BITS'
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\glad\glad.h(411,9): warning C4005: 'GL_LOGIC_OP': macro redefinition
+  (compiling source file 'GLFW_Version.cpp')
+      D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\GL\glew.h(801,9):
+      see previous definition of 'GL_LOGIC_OP'
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\glad\glad.h(495,9): warning C4005: 'GL_TEXTURE_COMPONENTS': macro redefinition
+  (compiling source file 'GLFW_Version.cpp')
+      D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\include\GL\glew.h(802,9):
+      see previous definition of 'GL_TEXTURE_COMPONENTS'
+  
+D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\GLFW_Version.cpp(165,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6.vcxproj -> D:\Programming\Visual Studio 2022\Graphics\Spaceship Shooter\x64\Debug\Lab6.exe

@@ -1,0 +1,16 @@
+﻿  GLFW_Version.cpp
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\Angel.h(63,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\glad\glad.h(323,1): warning C4005: 'GL_ALL_ATTRIB_BITS': macro redefinition
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\GL\glew.h(308): message : see previous definition of 'GL_ALL_ATTRIB_BITS'
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\glad\glad.h(411,1): warning C4005: 'GL_LOGIC_OP': macro redefinition
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\GL\glew.h(801): message : see previous definition of 'GL_LOGIC_OP'
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\glad\glad.h(495,1): warning C4005: 'GL_TEXTURE_COMPONENTS': macro redefinition
+D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\include\GL\glew.h(802): message : see previous definition of 'GL_TEXTURE_COMPONENTS'
+  Lab6.vcxproj -> D:\OneDrive - Universities of Canada\Courses\CS-4350\Fall 2023\Project\3D Model\3D Model\x64\Debug\Lab6.exe

@@ -1,0 +1,120 @@
+﻿  In file included from Source.cpp:5:
+  In file included from ./Shader.h:5:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include/Angel.h:67:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include/vec.h(325,52): warning : field 'w' is uninitialized when used here [-Wuninitialized]
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:59:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/vector3.h(53,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/./Compiler/pushpack1.h(26,10): message : previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:59:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/vector3.h(142,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+  note: previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:60:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/vector2.h(53,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/./Compiler/pushpack1.h(26,10): message : previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:60:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/vector2.h(111,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+  note: previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:61:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/color4.h(47,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/./Compiler/pushpack1.h(26,10): message : previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:61:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/color4.h(102,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+  note: previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:62:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/matrix3x3.h(48,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/./Compiler/pushpack1.h(26,10): message : previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:62:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/matrix3x3.h(180,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+  note: previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:63:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/matrix4x4.h(48,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/./Compiler/pushpack1.h(26,10): message : previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h:63:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/matrix4x4.h(245,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+  note: previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h(117,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/./Compiler/pushpack1.h(26,10): message : previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:9:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/Importer.hpp:53:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/types.h(227,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+  note: previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:10:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/scene.h:49:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/texture.h(73,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/./Compiler/pushpack1.h(26,10): message : previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:10:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/scene.h:49:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/texture.h(108,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+  note: previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:10:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/scene.h:53:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/material.h(448,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/./Compiler/pushpack1.h(26,10): message : previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+  In file included from ./Model.h:10:
+  In file included from C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/scene.h:53:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\assimp/material.h(494,10): warning : the current #pragma pack alignment value is modified in the included file [-Wpragma-pack]
+  note: previous '#pragma pack' directive that modifies alignment is here
+  In file included from Source.cpp:6:
+./Model.h(226,18): warning : variable 'format' is used uninitialized whenever 'if' condition is false [-Wsometimes-uninitialized]
+./Model.h(230,40): message : uninitialized use occurs here
+./Model.h(226,14): message : remove the 'if' if its condition is always true
+./Model.h(221,22): message : initialize the variable 'format' to silence this warning
+  In file included from Source.cpp:10:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\glad/glad.h(115,26): error : typedef redefinition with different types ('khronos_intptr_t' (aka 'long') vs 'ptrdiff_t' (aka 'int'))
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\GL/glew.h(1623,19): message : previous definition is here
+  In file included from Source.cpp:10:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\glad/glad.h(116,26): error : typedef redefinition with different types ('khronos_intptr_t' (aka 'long') vs 'ptrdiff_t' (aka 'int'))
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\GL/glew.h(5071,19): message : previous definition is here
+  In file included from Source.cpp:10:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\glad/glad.h(117,25): error : typedef redefinition with different types ('khronos_ssize_t' (aka 'long') vs 'ptrdiff_t' (aka 'int'))
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\GL/glew.h(1622,19): message : previous definition is here
+  In file included from Source.cpp:10:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\glad/glad.h(118,25): error : typedef redefinition with different types ('khronos_ssize_t' (aka 'long') vs 'ptrdiff_t' (aka 'int'))
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\GL/glew.h(5070,19): message : previous definition is here
+  In file included from Source.cpp:10:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\glad/glad.h(323,9): warning : 'GL_ALL_ATTRIB_BITS' macro redefined [-Wmacro-redefined]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\GL/glew.h(308,9): message : previous definition is here
+  In file included from Source.cpp:10:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\glad/glad.h(411,9): warning : 'GL_LOGIC_OP' macro redefined [-Wmacro-redefined]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\GL/glew.h(801,9): message : previous definition is here
+  In file included from Source.cpp:10:
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\glad/glad.h(495,9): warning : 'GL_TEXTURE_COMPONENTS' macro redefined [-Wmacro-redefined]
+C:\Users\mirna.hesham\Desktop\Lab9 - Copy\include\GL/glew.h(802,9): message : previous definition is here
