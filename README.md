@@ -4,7 +4,7 @@ A dynamic 2D space shooter game where you control a spaceship, dodge incoming en
 
 ## 🎮 Game Overview
 
-- Control a spaceship in a 3D space environment.  
+- Control a spaceship in a 2D space environment.  
 - Shoot bullets to destroy enemy spaceships.  
 - Avoid collisions to preserve health (displayed as hearts).  
 - Earn points for every enemy destroyed.  
